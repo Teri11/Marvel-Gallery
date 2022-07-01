@@ -456,6 +456,19 @@ body {
   height: 100%;
   background: rgba(0, 0, 0, 0.2);
 }
+.example-slider .fnc-slide-5 .fnc-slide__inner,
+.example-slider .fnc-slide-5 .fnc-slide__mask-inner {
+  background-image: url("https://www.myfreewalls.com/public/uploads/preview/hulk-superhero-4k-wallpaper-11624826172l58zeo1wmt.jpg");
+}
+.example-slider .fnc-slide-5 .fnc-slide__inner:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.2);
+}
 .example-slider .fnc-slide__heading,
 .example-slider .fnc-slide__action-btn,
 .example-slider .fnc-nav__control {
